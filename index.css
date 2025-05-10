@@ -17,7 +17,7 @@ header {
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     position: fixed;
-    z-index: 2000;
+    z-index: 1000;
     width: 100%;
   }
   
@@ -344,7 +344,7 @@ header {
   
   .close {
     position: absolute;
-    top: 30px;
+    margin-top: 20px;
     right: 50px;
     color: #fff;
     font-size: 40px;
